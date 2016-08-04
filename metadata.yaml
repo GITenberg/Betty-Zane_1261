@@ -1,0 +1,47 @@
+_repo: Betty-Zane_1261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: After the success of Zane Grey's first novel, Betty Zane, first published
+  in 1903, Grey gave up his dental practice in New York City to concentrate on writing
+  the westerns that would make him as rich and famous as a movie star. But ancestral
+  pride, not money, was the impetus for Betty Zane. It was based on family stories
+  about his great-grandfather, Colonel Ebenezer Zane, who had defended Fort Henry
+  during the American Revolution. West Virginians remember that the colonel's young
+  daughter, Betty, saved the fort during a British-Indian onslaught in 1782 - the
+  last battle of the Revolutionary War. Her act of courage gives focus to this rousing
+  novel, replete with other historical figures like the ferocious Lewis Wetzel, the
+  notorious renegade Simon Girty, and the Seneca chief Cornplanter. Betty Zane, the
+  headstrong heroine moves in an authentic atmosphere of danger and romance.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women pioneers -- Fiction'
+- !lcsh 'Fort Henry (W. Va.) -- Fiction'
+- !lcsh 'Indians of North America -- Wars -- 1750-1815 -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Wetzel, Lewis, 1763-1808 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Zane, Betty -- Fiction'
+- !lcsh 'Ohio River Valley -- Fiction'
+- GITenberg
+title: Betty Zane
+url: http://www.gutenberg.org/ebooks/1261
