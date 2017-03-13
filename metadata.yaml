@@ -1,5 +1,8 @@
 _repo: Betty-Zane_1261
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -22,6 +25,8 @@ description: After the success of Zane Grey's first novel, Betty Zane, first pub
   novel, replete with other historical figures like the ferocious Lewis Wetzel, the
   notorious renegade Simon Girty, and the Seneca chief Cornplanter. Betty Zane, the
   headstrong heroine moves in an authentic atmosphere of danger and romance.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1261#Betty-Zane
 gutenberg_bookshelf: Western
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
