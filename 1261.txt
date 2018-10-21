@@ -21,7 +21,7 @@ Character set encoding: ASCII
 
 
 
-Etext prepared by Bill Brewer, billbrewer@ttu.edu 
+Etext prepared by Bill Brewer, billbrewer@ttu.edu
 
 
 
@@ -1056,7 +1056,7 @@ reddened again at the recollection.
 
 "Betty, I do not think your experience was so dreadful, certainly
 nothing to put you out as it has," said Lydia, laughing merrily. "Be
-serious. You know we are not in the backwoods now and must not
+serious. You know we are out in the backwoods now and must not
 expect so much of the men. These rough border men know little of
 refinement like that with which you have been familiar. Some of them
 are quiet and never speak unless addressed; their simplicity is
@@ -4526,7 +4526,7 @@ required weight and endurance, he usually suffered defeat. In a foot
 race there was not a brave in the entire tribe who could keep even
 with him. But it was with the rifle that Isaac won his greatest
 distinction. The Indians never learned the finer shooting with the
-ride. Some few of them could shoot well, but for the most part they
+rifle. Some few of them could shoot well, but for the most part they
 were poor marksmen.
 
 Accordingly, Isaac was always taken on the fall hunt. Every autumn
@@ -7233,7 +7233,7 @@ and waited for her to speak.
 
 "Myeerah claims the White Eagle," she said.
 
-Cornplanter did not answer at once. He had never seek Myeerah,
+Cornplanter did not answer at once. He had never seen Myeerah,
 though he had heard many stories of her loveliness. Now he was face
 to face with the Indian Princess whose fame had been the theme of
 many an Indian romance, and whose beauty had been sung of in many an
@@ -11297,7 +11297,7 @@ End of the Project Gutenberg EBook of Betty Zane, by Zane Grey
 This and all associated files of various formats will be found in:
         http://www.gutenberg.net/1/2/6/1261/
 
-Etext prepared by Bill Brewer, billbrewer@ttu.edu 
+Etext prepared by Bill Brewer, billbrewer@ttu.edu
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
